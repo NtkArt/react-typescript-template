@@ -21,19 +21,7 @@ A project template using create-react-app to quickly start developing react appl
 - [Getting Started](#getting-started)
 	- [Tools Required](#tools-required)
 	- [Installation](#installation)
-- [Development](#development)
-    - [Part 1: Heading](#part-1-heading)
-	  - [Step 1: Subheading](#step-1-subheading)
-	  - [Step 2: Subheading](#step-2-subheading)
-	- [Part 2: Heading](#part-2-heading)
-- [Running the App](#running-the-app)
-- [Deployment](#deployment)
-- [Contributing](#contributing)
-- [Versioning](#versioning)
 - [Authors](#authors)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
-
 ## Getting Started
 
 The project might have one branch: `master`. Which can be explained here
