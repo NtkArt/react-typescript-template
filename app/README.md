@@ -73,6 +73,20 @@ Then enter in app folder, and run **yarn**.
 
 ````
 ---
+### Eslint Config
+
+1- First check if eslint is installed as a development dependency.
+2- Run **yarn eslint --init** then choose "To check syntax, find problems and enforce code style".
+3- Then **Javascript modules (import/export)**
+4- Then choose React option.
+5- Then choose typescript option.
+6- Browser
+7- Use a popular style guide
+8- AirBnB
+9 - JSON format.
+
+
+---
 
 ## Authors
 
